@@ -1,0 +1,9 @@
+    This file includes a list of Python packages and their versions that are required for your project to run. You can generate this file using the pip freeze command:
+
+makefile
+
+pytest==6.2.4
+pytest-cov==2.12.1
+flake8==3.9.2
+
+These files should be enough to get your DevSecFlow repository started!
